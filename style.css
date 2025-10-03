@@ -111,7 +111,7 @@ body {
 .main_item {
     display: flex;
     width: 100%;
-    gap: 24px;
+    gap: 30px;
     flex-wrap: wrap;
 
 }
@@ -157,7 +157,7 @@ body {
 .main_item1 {
     display: flex;
     width: 100%;
-    gap: 24px;
+    gap: 30px;
     flex-wrap: wrap;
 }
 
@@ -198,7 +198,7 @@ body {
 .main_item2 {
     display: flex;
     width: 100%;
-    gap: 24px;
+    gap: 30px;
     flex-wrap: wrap;
 }
 
