@@ -12,8 +12,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     align-items: center;
-    padding-top: 18px;
-    padding-bottom: 18px;
+    padding: 18px 40px;
 }
 
 .box {
@@ -51,7 +50,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     align-items: center;
-    padding: 80px 0;
+    padding: 80px 40px;
 }
 
 .section_1 {
